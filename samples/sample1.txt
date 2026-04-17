@@ -1,0 +1,5 @@
+Sample Store
+Tax ID: 1234567890123
+Coffee 2 x 50 = 100
+Cake 1 x 35 = 35
+Total: 135
