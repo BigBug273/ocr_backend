@@ -7,3 +7,4 @@ python-dotenv
 typhoon-ocr
 Pillow
 google-genai
+psycopg2-binary
